@@ -15,3 +15,15 @@ This is a simple two-tier web application for managing a To-Do List. It demonstr
 - Frontend: HTML, CSS, JavaScript
 - Backend: Server-side logic using [your backend language, e.g., Node.js/Python/Java]
 - Database: AWS RDS (MySQL/PostgreSQL)
+
+ ## Documentation
+
+You can find the detailed project documentation here:
+
+[Project Details PDF](./doc/To-do-list.pdf)
+
+## ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
