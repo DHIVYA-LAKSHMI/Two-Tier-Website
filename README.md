@@ -20,7 +20,10 @@ This is a simple two-tier web application for managing a To-Do List. It demonstr
 
 You can find the detailed project documentation here:
 
-[Project Details PDF](./doc/To-do-list.pdf)
+## 📄 Project Documentation
+
+[📥 Download To-Do List Project PDF](./docs/To-do-list.pdf)
+
 
  ## License
 
